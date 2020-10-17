@@ -7028,7 +7028,7 @@ body:not(.device-touch) .portfolio {
 	flex-wrap: wrap;
 	margin-left: -1px;
 	margin-right: -1px;
-	margin-bottom: -2px;
+	margin-bottom: 1px;
 }
 
 .masonry-thumbs .grid-item {
